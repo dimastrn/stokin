@@ -1,0 +1,44 @@
+/* DATATABLES TWEAK STYLE */
+
+label {
+	margin-left: 25px;
+}
+
+label input[type="search"] {
+	margin-left: 0;
+	margin-right: 25px;
+}
+
+#myTable_info, #myTable_paginate {
+	margin-bottom: 20px;
+}
+
+#myTable_info {
+	margin-left: 25px;	
+}
+
+#myTable_paginate {
+	margin-right: 25px; 		
+}
+
+#myTable_previous, #myTable_next {
+	visibility: hidden;
+}
+
+.text-link {
+	font-weight: bolder;
+	margin-left: 5px;
+}
+
+.ni.ni-tv-2, .ni.ni-box-2, .ni.ni-basket, .ni.ni-cart, .ni.ni-archive-2, .ni.ni-circle-08 {
+	font-size: 30px !important;	
+}
+
+.nav-item {
+	margin-bottom: 15px;
+}
+
+.nav-special:hover {
+	background-color: #f5f5f5 !important;
+	padding: 15px;
+}
